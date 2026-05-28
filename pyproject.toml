@@ -12,7 +12,8 @@ dependencies = [
     "langchain-groq>=0.1.0",
     "python-dotenv>=1.0.0",
     "ipykernel>=7.2.0",
-    "langchain-openrouter>=0.1.0",
+    "langchain-openrouter>=0.2.3",
     "langchain-xai>=1.2.2",
-    "langchain-openrouter=0.2.3"
+    "langchain-tavily>=0.2.18",
+    "typing-extensions>=4.15.0",
 ]

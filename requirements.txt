@@ -5,3 +5,4 @@ langchain-google-genai
 langchain-groq
 python-dotenv
 langchain-openrouter
+langchain-tavily
